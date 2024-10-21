@@ -28,22 +28,6 @@ const App = () => {
     }
     
     </div>
-    {/* <div>
-    {
-    location.pathname !== '/Payment' &&
-     <div className="bg-slate-400">
-      <Navbar isLoggedIn={isLoggedIn} setIsLoggedIn={isLoggedIn}/>
-      </div>
-    }
-    </div> */}
-
-
-
-      {/* <div className="bg-slate-500">
-      <Navbar isLoggedIn={isLoggedIn} setIsLoggedIn={isLoggedIn}  />
-      </div> */}
-         
-      
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/cart" element={<Cart isLoggedIn={isLoggedIn} />} />

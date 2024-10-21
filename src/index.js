@@ -10,11 +10,12 @@ import { Toaster } from "react-hot-toast";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
-    <BrowserRouter>
+    
         <Provider store={store}>
+          <BrowserRouter>
           <App />   
-          <Toaster/>  
+          <Toaster/>
+          </BrowserRouter>
         </Provider>
-    </BrowserRouter>
 );
 
