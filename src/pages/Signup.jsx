@@ -5,7 +5,7 @@ const Signup = ({setIsLoggedIn}) => {
   return (
     <div>
       <div className='w-full h-full absolute'>
-      <img src="./Asseest/background3.jpg" alt="#" className=' h-full w-full' />
+      <img src="./Assest/background3.jpg" alt="#" className=' h-full w-full' />
       </div>
       <SignupForm  setIsLoggedIn={setIsLoggedIn} />
     </div>

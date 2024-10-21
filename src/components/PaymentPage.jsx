@@ -293,7 +293,7 @@ const doneHandler = () => {
             <p className='text-lg font-bold'>Axis Bank</p>
             <p className='text-sm ml-4'>EMI $5/m</p>
             </div>
-            <img src="./Asseest/AxisLogo.png" alt="#" className='w-5 h-5 mr-4 mt-3 justify-center items-center' />
+            <img src="./Assest/AxisLogo.png" alt="#" className='w-5 h-5 mr-4 mt-3 justify-center items-center' />
            </div>
            </div>
            <button className='w-full rounded-sm p-1 mt-2 bg-yellow-300'>See all plans</button>
@@ -312,7 +312,7 @@ const doneHandler = () => {
             <p className='text-lg font-bold'>HDFC Bank</p>
             <p className='text-sm ml-4'>EMI $10/m</p>
             </div>
-            <img src="./Asseest/Hdfc.png" alt="#" className='w-5 h-5 mr-4 mt-3 justify-center items-center' />
+            <img src="./Assest/Hdfc.png" alt="#" className='w-5 h-5 mr-4 mt-3 justify-center items-center' />
            </div>
            </div>
            <button className='w-full rounded-sm p-1 mt-2 bg-yellow-300'>See all plans</button>
@@ -344,7 +344,7 @@ const doneHandler = () => {
          </input>
         <div className='flex justify-between w-full '>
          <p className='text-lg font-bold'>Axis Bank</p>
-         <img src="./Asseest/AxisLogo.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
+         <img src="./Assest/AxisLogo.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
         </div>
         </div>
         <button className='w-full flex rounded-sm p-1 mt-2  gap-x-2 font-bold bg-yellow-300 items-center justify-center'onClick={doneHandler}><p>Pay</p><p>${finalAmount}</p></button>
@@ -360,7 +360,7 @@ const doneHandler = () => {
          </input>
         <div className='flex justify-between w-full '>
          <p className='text-lg font-bold'>HDFC Bank</p>
-         <img src="./Asseest/Hdfc.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
+         <img src="./Assest/Hdfc.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
         </div>
         </div>
         <button className='w-full flex rounded-sm p-1 mt-2  gap-x-2 font-bold bg-yellow-300 items-center justify-center' onClick={doneHandler} ><p>Pay</p><p>${finalAmount}</p></button>
@@ -376,7 +376,7 @@ const doneHandler = () => {
          </input>
         <div className='flex justify-between w-full '>
          <p className='text-lg font-bold'>State bank of india Bank</p>
-         <img src="./Asseest/SBI.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
+         <img src="./Assest/SBI.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
         </div>
         </div>
         <button className='w-full flex rounded-sm p-1 mt-2  gap-x-2 font-bold bg-yellow-300 items-center justify-center' onClick={doneHandler} ><p>Pay</p><p>${finalAmount}</p></button>
@@ -392,7 +392,7 @@ const doneHandler = () => {
          </input>
         <div className='flex justify-between w-full '>
          <p className='text-lg font-bold'>ICICI Bank</p>
-         <img src="./Asseest/ICICI.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
+         <img src="./Assest/ICICI.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
         </div>
         </div>
         <button className='w-full flex rounded-sm p-1 mt-2  gap-x-2 font-bold bg-yellow-300 items-center justify-center' onClick={doneHandler} ><p>Pay</p><p>${finalAmount}</p></button>
@@ -424,7 +424,7 @@ const doneHandler = () => {
          </input>
         <div className='flex justify-between w-full '>
          <p className='text-lg font-bold'>Phonepe Wallet</p>
-         <img src="./Asseest/phonepe.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
+         <img src="./Assest/phonepe.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
         </div>
         </div>
         <div className='ml-8 mr-5' >
@@ -468,7 +468,7 @@ const doneHandler = () => {
          </input>
         <div className='flex justify-between w-full '>
          <p className='text-lg'>Google pay</p>
-         <img src="./Asseest/Gpay.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
+         <img src="./Assest/Gpay.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
         </div>
         </div>
         <button className='w-full flex rounded-sm p-1 mt-2  gap-x-2 font-bold bg-yellow-300 items-center justify-center' onClick={doneHandler} ><p>Pay</p><p>${finalAmount}</p></button>
@@ -484,7 +484,7 @@ const doneHandler = () => {
          </input>
         <div className='flex justify-between w-full '>
          <p className='text-lg '>BHIM UPI</p>
-         <img src="./Asseest/Bhim.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
+         <img src="./Assest/Bhim.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
         </div>
         </div>
         <button className='w-full flex rounded-sm p-1 mt-2  gap-x-2 font-bold bg-yellow-300 items-center justify-center' onClick={doneHandler} ><p>Pay</p><p>${finalAmount}</p></button>
@@ -500,7 +500,7 @@ const doneHandler = () => {
          </input>
         <div className='flex justify-between w-full '>
          <p className='text-lg '>Paytm</p>
-         <img src="./Asseest/Paytm.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
+         <img src="./Assest/Paytm.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
         </div>
         </div>
         <button className='w-full flex rounded-sm p-1 mt-2  gap-x-2 font-bold bg-yellow-300 items-center justify-center' onClick={doneHandler} ><p>Pay</p><p>${finalAmount}</p></button>
@@ -516,7 +516,7 @@ const doneHandler = () => {
          </input>
         <div className='flex justify-between w-full '>
          <p className='text-lg '>PhonePe</p>
-         <img src="./Asseest/phonepe.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
+         <img src="./Assest/phonepe.png" alt="#" className='w-5 h-5 mr-4 mt-1 justify-center items-center' />
         </div>
         </div>
         <button className='w-full flex rounded-sm p-1 mt-2  gap-x-2 font-bold bg-yellow-300 items-center justify-center' onClick={doneHandler} ><p>Pay</p><p>${finalAmount}</p></button>
